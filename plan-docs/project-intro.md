@@ -6,7 +6,7 @@ We will **design and build rendering technology itself**, similar to what **Verc
 
 ---
 
-# 🧠 CORE TECHNOLOGIES YOU CAN BUILD (NOT APPS)
+# 🧠 CORE TECHNOLOGIES WE CAN BUILD (NOT APPS)
 
 Below is **real, research-grade technology** aligned with **SSG, SSR, CSR, ISR, Partial Hydration, Streaming SSR, Edge ISR**.
 
